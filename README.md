@@ -1,4 +1,3 @@
-![Five Nights at Freddy's](https://vignette.wikia.nocookie.net/freddy-fazbears-pizza/images/0/0c/Show_stage_nocamera.png/revision/latest?cb=20150119023526)
 
 # ~ Five Nights at Freddy's Web
 
@@ -12,8 +11,6 @@ Uma versão na Web que eu fiz do famoso jogo de terror [Five Nights at Freddy's]
 - Added custom night!
 
 ~ Link: [https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/](https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/)
-
-![Five Nights at Freddy's](FNAF.webp)
 
 ## Installation
 
